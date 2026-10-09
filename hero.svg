@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Chaman Kumar Singh — Cloud and Data</title>
-<desc id="desc">Aspiring Cloud and Data Analyst. Turning curiosity into practical projects.</desc>
+<title id="title">Chaman Kumar Singh — Data Analyst and Business Analyst</title>
+<desc id="desc">Data Analyst and Business Analyst working with SQL, Python and Power BI.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07131f"/><stop offset="1" stop-color="#123743"/></linearGradient><linearGradient id="accent"><stop stop-color="#52d6f4"/><stop offset="1" stop-color="#8de6b2"/></linearGradient></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 <g stroke="#284a56" opacity=".35"><path d="M800 0v360M880 0v360M960 0v360M1040 0v360M1120 0v360M720 60h480M720 140h480M720 220h480M720 300h480"/></g>
 <rect x="48" y="51" width="5" height="24" rx="2" fill="#78e4bd"/>
-<text x="68" y="69" fill="#8bd9d9" font-size="16" font-family="Segoe UI,Arial,sans-serif" letter-spacing="4">CLOUD / DATA / BUILD</text>
+<text x="68" y="69" fill="#8bd9d9" font-size="16" font-family="Segoe UI,Arial,sans-serif" letter-spacing="4">DATA / BUSINESS / INSIGHT</text>
 <text x="48" y="142" fill="#f2f8fc" font-size="49" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Chaman Kumar Singh</text>
-<text x="50" y="189" fill="#bbd0db" font-size="24" font-family="Segoe UI,Arial,sans-serif">Aspiring Cloud &amp; Data Analyst</text>
-<text x="50" y="238" fill="#8faab8" font-size="19" font-family="Segoe UI,Arial,sans-serif">Turning curiosity into practical projects.</text>
-<rect x="50" y="275" width="91" height="32" rx="16" fill="#173c4b"/><text x="70" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">AZURE</text>
-<rect x="152" y="275" width="108" height="32" rx="16" fill="#173c4b"/><text x="171" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">POWER BI</text>
-<rect x="271" y="275" width="133" height="32" rx="16" fill="#173c4b"/><text x="291" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">ANALYTICS</text>
+<text x="50" y="189" fill="#bbd0db" font-size="24" font-family="Segoe UI,Arial,sans-serif">Data Analyst · Business Analyst</text>
+<text x="50" y="238" fill="#8faab8" font-size="19" font-family="Segoe UI,Arial,sans-serif">Turning business problems into data-backed decisions.</text>
+<rect x="50" y="275" width="70" height="32" rx="16" fill="#173c4b"/><text x="70" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">SQL</text>
+<rect x="131" y="275" width="94" height="32" rx="16" fill="#173c4b"/><text x="151" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">PYTHON</text>
+<rect x="236" y="275" width="108" height="32" rx="16" fill="#173c4b"/><text x="255" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">POWER BI</text>
+<rect x="355" y="275" width="190" height="32" rx="16" fill="#173c4b"/><text x="375" y="296" fill="#80dff0" font-size="13" font-family="Segoe UI,Arial,sans-serif">ROOT CAUSE ANALYSIS</text>
 <g transform="translate(828,80)"><rect width="307" height="209" rx="15" fill="#102a37" stroke="#35616d"/>
 <circle cx="21" cy="22" r="4" fill="#76dfbf"/><circle cx="36" cy="22" r="4" fill="#426373"/><circle cx="51" cy="22" r="4" fill="#426373"/>
 <path d="M27 166h249" stroke="#426373"/><rect x="40" y="122" width="30" height="43" rx="4" fill="#276276"/><rect x="92" y="97" width="30" height="68" rx="4" fill="#39889c"/><rect x="144" y="74" width="30" height="91" rx="4" fill="#54b7c1"/><rect x="196" y="49" width="30" height="116" rx="4" fill="url(#accent)"/>
 <path d="M53 105L108 79L159 55L212 33" fill="none" stroke="#83e7bc" stroke-width="3"/>
-<text x="28" y="191" fill="#87a8b7" font-size="11" font-family="Consolas,monospace">learn → build → understand</text></g></svg>
+<text x="28" y="191" fill="#87a8b7" font-size="11" font-family="Consolas,monospace">question → data → decision</text></g></svg>
