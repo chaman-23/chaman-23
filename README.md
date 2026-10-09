@@ -13,6 +13,7 @@
 
 I'm a Business Analyst and Data Analyst based in New Delhi. I work across requirements gathering, process mapping and root cause analysis, and I like the point where a business question turns into a data question: cleaning the data, finding what actually drives a number, and presenting it so a decision can be made.
 
+- Business Analyst experience at **IHRO India** (NGO): requirements, BRDs and root cause analysis
 - Co-founded **SmartHomie**, securing ₹1.4 lakh in grant funding
 - Pursuing an **MCA at IIT Patna** (online)
 - Looking for **Data Analyst, Business Analyst and BI Analyst** roles
@@ -50,6 +51,11 @@ I'm a Business Analyst and Data Analyst based in New Delhi. I work across requir
 **More:** [Cloud Cost Insights](https://github.com/chaman-23/cloud-cost-insights) (billing analysis in Python) · [E-commerce Sales Dashboard](https://github.com/chaman-23/ecommerce-sales_dashboard) (Excel and Power BI)
 
 ## Experience
+
+**Business Analyst — IHRO India (NGO), Delhi** · *2026*
+- Documented AS-IS / TO-BE grievance-handling flows and wrote a BRD for the technical team
+- Led root cause analysis of declining membership renewals and presented a prioritised action plan to leadership
+- Analysed website and social media data in Google Analytics 4 and Search Console to find drop-off points and an SEO rendering issue
 
 **Co-Founder & Business Lead — SmartHomie** · *Parul University Incubation Program, 2025*
 - Ran primary market research with 100+ respondents and built the financial projections behind a ₹1.4 lakh grant
